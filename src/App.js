@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from './pages/Header';
+import Fiture from './pages/Fiture';
+import Amazing from './pages/Amazing';
+import Customer from './pages/Customer';
+import Contact from './pages/Contact';
+import Footer from './pages/Footer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div class="loader_bg">
+         <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+      </div>
+   {/* <!-- end loader --> */}
+   <Header></Header>
+   <Fiture></Fiture>
+   {/* <!-- amezing --> */}
+   <Amazing></Amazing>
+   {/* <!-- customer --> */}
+   <Customer></Customer>
+   {/* <!-- request --> */}
+   <Contact></Contact>
+   {/* <!--  footer -->S */}
+   <Footer></Footer>
     </div>
   );
 }
