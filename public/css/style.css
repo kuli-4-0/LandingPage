@@ -356,7 +356,7 @@ button {
      width: 100%;
      float: left;
      padding: 150px 0;
-     margin-left: 50px;
+     margin-left: 30px;
 }
 
 .text-bg h1 {
@@ -409,11 +409,11 @@ button {
 
 .text-img figure {
      margin: 0px;
+     padding-top: 50px;
 }
 
 .text-img figure img {
-     width: 650px;
-     height: 750px;
+     width: 700px;
 }
 
 .padding_right1 {
@@ -741,8 +741,8 @@ ul.social_infomision li img {
 }
 
 .cont figure {
-     background-color: #fff;
-     border-radius: 15%;
+     margin: 0;
+     padding: 0;
 }
 
 .cont h3 {

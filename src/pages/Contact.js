@@ -3,7 +3,7 @@ import React from 'react'
 const Contact = () => {
     return (
         <div>         
-            <div class="request">
+            <div class="request" id="contact">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -16,7 +16,7 @@ const Contact = () => {
                     <div class="row">
                         <div class="col-md-6">
                         <ul class="social_infomision">
-                            <li><a href="#"><img src="images/call.png" alt="#" />(+1)1234567890</a></li>
+                            <li><a href="https://wa.link/amtpgn"><img src="images/call.png" alt="#" />(+62)85367141316</a></li>
                         </ul>
                         </div>
                         <div class="col-md-6">

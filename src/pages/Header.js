@@ -29,13 +29,13 @@ const Header = () => {
                                     <div class="collapse navbar-collapse" id="navbarsExample04">
                                     <ul class="navbar-nav mr-auto">
                                         <li class="nav-item">
-                                            <a class="nav-link" href="#about">About</a>
+                                            <a class="nav-link" href="#feature">About</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" href="#contact">Contact us</a>
                                         </li>
                                     </ul>
-                                    <div class="sign_btn"><a href="#">Sign in</a></div>
+                                    <div class="sign_btn"><a href="https://frontend-brcxr6bfxq-uc.a.run.app/login">Sign in</a></div>
                                     </div>
                                 </nav>
                             </div>
@@ -55,7 +55,7 @@ const Header = () => {
                                         <h1>Elise</h1>
                                         <strong>An application for </strong>
                                         <span>Event Organizer and Musician</span>
-                                        <a href="#">Sign In Now</a>
+                                        <a href="https://frontend-brcxr6bfxq-uc.a.run.app/login">Sign In Now</a>
                                     </div>
                                     </div>
                                 </div>

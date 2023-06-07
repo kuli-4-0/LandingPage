@@ -10,7 +10,7 @@ const Footer = () => {
                         <div class="col-md-10 offset-md-1">
                             <div class="cont">
                                 <figure>
-                                    <img src="images/full-logo.png"/>
+                                    <img src="images/logo.png"/>
                                 </figure>
                                 <span> A startup company engaged in the music industry that connects event organizers with musicians, especially street musicians.
                                 And everyone can create their own music event. </span>
